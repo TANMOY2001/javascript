@@ -1,2 +1,3 @@
 # javascript
-starting a new journey with js
+starting a new journey with js 
+Hope For Best
