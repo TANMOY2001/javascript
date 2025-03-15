@@ -6,4 +6,4 @@ console.log("the sum of ", a ,"+", b ," is =",sum)
 console.log(typeof(sum))
 // console.log(+true)
 console.log(age)
-
+console.log(typeof(age))~
